@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# javascript build output
+lambda/custom/**/*.js
+lambda/custom/**/*.js.map
